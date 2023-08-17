@@ -1,6 +1,4 @@
 import json
-from ctypes import *
-CDLL(r"C:\Users\zouari\anaconda3\Lib\site-packages\confluent_kafka.libs\librdkafka-09f4f3ec.dll")
 from confluent_kafka import Consumer
 import requests
 
