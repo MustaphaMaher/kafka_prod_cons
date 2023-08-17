@@ -1,7 +1,7 @@
 ## Prerequisites 
 You need to install kafka on your machine and launch it in order to use the code 
 For further details follow this link https://kafka.apache.org/documentation/#quickstart
-## Installation Kafka
+## Install confluent Kafka python module
 To install the confluent_kafka library for Python, use the following command:
 ```
 pip install confluent-kafka
